@@ -6,8 +6,7 @@
 
 ## 🔗 Live Preview
 
-> *(Add your deployment link here, e.g., GitHub Pages or Netlify)*  
-> `https://your-username.github.io/Financial_Schemes_and_Planning`
+> `https://finbbudy.netlify.app/`
 
 ---
 
