@@ -1,70 +1,97 @@
-# Getting Started with Create React App
+# 💰 Financial Schemes & Planning
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+*A React web app to explore government financial schemes and test your financial savvy with a fun, multi-level planning game!*
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🔗 Live Preview
 
-### `npm start`
+> *(Add your deployment link here, e.g., GitHub Pages or Netlify)*  
+> `https://your-username.github.io/Financial_Schemes_and_Planning`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 📚 Table of Contents
+- [Features](#-features)
+- [Game Overview](#-game-overview)
+- [How to Play](#-how-to-play)
+- [Tech Stack](#-tech-stack)
+- [Contribute & Feedback](#-contribute--feedback)
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## ✨ Features
 
-### `npm run build`
+- **Explore Financial Schemes** — View and apply for government financial initiatives relevant to you.
+- **Interactive Game Mode** — Three immersive levels of financial decision-making:
+  - **Level 1** — Basic spending, saving, and risky stock options.
+  - **Level 2** — Nuanced everyday choices, low/mid-risk investments.
+  - **Level 3** — Adult life planning: business ventures, real estate, loans, retirement, and unexpected events.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🎮 Game Overview
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+| **Level** | **Description** |
+|-----------|-----------------|
+| **Level 1** | Start with \( \$1,000 \). Choose between eating out, staying in, investing in stocks, or saving in a bank with interest. (5 rounds) |
+| **Level 2** | Carry over your balance from Level 1. Start new choices: low- or medium-risk stocks, staying in for smaller gains, or saving. Build on previous performance. |
+| **Level 3** | Big decisions ahead — start a business, buy real estate, contribute to retirement, or take a loan — all while dealing with random life events. Reflects real-life financial planning. |
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## ⚙️ Getting Started
 
-## Learn More
+ 📦 Prerequisites
+- **Node.js** & **npm/yarn** installed
+- **Git** (optional, for version control)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### 🖥 Installation
+```bash
+git clone https://github.com/Supreetkaur1/Financial_Schemes_and_Planning.git
+cd Financial_Schemes_and_Planning
+npm install
+npm start
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+The app launches at:
+http://localhost:3000
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
+## 🕹 How to Play
+Choose your country and start Level 1.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Make decisions each round — watch your balance update with realistic outcomes.
 
-### Making a Progressive Web App
+Progress through levels carrying your balance forward.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+In Level 3, manage long-term strategies and survive life’s financial surprises.
 
-### Advanced Configuration
+Check your final score and replay with better planning!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## 🛠 Tech Stack
+React (Create React App) — frontend framework
 
-### `npm run build` fails to minify
+React Router — navigation (if applicable)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+JavaScript, HTML, CSS — core technologies
+
+
+---
+
+## 🤝 Contribute & Feedback
+Love it? Want to make it better?
+
+Contributions welcome! Fork the repo, make your changes, and submit a pull request.
+
+Issues — Report bugs or suggest ideas via GitHub Issues.
+
+Feedback — Messages, emojis, and help refining the experience are appreciated!
