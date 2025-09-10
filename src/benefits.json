@@ -1,0 +1,51 @@
+
+{
+  "us": [
+    {
+      "name": "SNAP (Food Assistance)",
+      "description": "Provides food-purchasing assistance for low-income individuals.",
+      "link": "https://www.fns.usda.gov/snap",
+      "criteria": { "income": ["low"], "employment": ["unemployed", "self"] },
+      "category": "Food"
+    },
+    {
+      "name": "Medicaid",
+      "description": "Healthcare program for low-income individuals and families.",
+      "link": "https://www.medicaid.gov/",
+      "criteria": { "income": ["low"] },
+      "category": "Healthcare"
+    }
+  ],
+  "uk": [
+    {
+      "name": "Universal Credit",
+      "description": "Financial support for those on low income or out of work.",
+      "link": "https://www.gov.uk/universal-credit",
+      "criteria": { "income": ["low"], "employment": ["unemployed", "self"] },
+      "category": "Financial Aid"
+    },
+    {
+      "name": "Personal Independence Payment (PIP)",
+      "description": "Helps with extra costs for those with long-term illness or disability.",
+      "link": "https://www.gov.uk/pip",
+      "criteria": { "age": ["adult", "senior"] },
+      "category": "Disability"
+    }
+  ],
+  "india": [
+    {
+      "name": "Ayushman Bharat",
+      "description": "Health insurance for low-income families.",
+      "link": "https://pmjay.gov.in/",
+      "criteria": { "income": ["low"] },
+      "category": "Healthcare"
+    },
+    {
+      "name": "National Means-cum-Merit Scholarship",
+      "description": "Scholarship for students from economically weaker sections.",
+      "link": "https://scholarships.gov.in/",
+      "criteria": { "age": ["student"], "income": ["low"] },
+      "category": "Education"
+    }
+  ]
+}
